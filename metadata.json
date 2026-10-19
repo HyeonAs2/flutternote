@@ -1,0 +1,7 @@
+{
+  "name": "설렘노트 - 초보자를 위한 AI 연애 코치",
+  "description": "연애가 처음이거나 서툰 분들을 위한 1:1 맞춤 AI 연애 코칭, 실전 카톡 답장 가이드, 첫 데이트 플래너 및 대화 시뮬레이션 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
